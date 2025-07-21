@@ -1,6 +1,6 @@
 # Eventra: Event Booking App
 
-[Live Website](https://event-booking-self.vercel.app/)
+#Live Demo: [https://event-booking-self.vercel.app/](https://event-booking-self.vercel.app/)
 
 A backend API for event booking, ticketing, payments, and user management.
 
